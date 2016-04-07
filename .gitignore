@@ -1,1 +1,3 @@
 *.pyc
+dist/
+point.egg-info/
